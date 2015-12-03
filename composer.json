@@ -1,0 +1,13 @@
+{
+    "name": "vendor/cliente",
+    "description": "Description of project cliente.",
+    "authors": [
+        {
+            "name": "darkwebside",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "rmccue/requests": "v1.6.1"
+    }
+}
